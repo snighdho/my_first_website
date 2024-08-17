@@ -1,0 +1,18 @@
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px; /* Adjust this based on your design */
+  width: 100%;
+  background-color: #f8f8f8; /* Optional: background color */
+  border-bottom: 1px solid #ddd; /* Optional: bottom border */
+  position: fixed; /* Keeps the header fixed at the top */
+  top: 0; /* Aligns the header at the top */
+  left: 0; /* Aligns the header at the left edge */
+  z-index: 1000; /* Ensures the header is above other content */
+}
+
+.header-text {
+  margin: 0;
+  font-size: 35px; /* Adjust the font size as needed */
+}

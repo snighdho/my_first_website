@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "c253246d-e72b-41a0-9229-bbb3b834c37b",
+      "name": "shuvro",
+      "email": "suvrobiswas555@gmail.com"
+    },
+    {
+      "id": "0a9bb225-1e3b-4713-aae7-dff8cb71a28c",
+      "name": "shuvro bis",
+      "email": "suvrobiswas555@gmail.com"
+    },
+    {
+      "id": "a4275650-0e87-4ab4-b9ba-6576a3f8f5a8",
+      "name": "Pritam Dutta",
+      "email": "pritam04@gmail.com "
+    },
+    {
+      "id": "48c9116a-d4db-4c64-bb1c-d78f3be803f4",
+      "name": "sourav",
+      "email": "sauravbiswas555@gmail.com"
+    },
+    {
+      "id": "a9f420b3-b7c8-4de4-a1ff-876cc4a79b65",
+      "name": "shuvro Chakraborty",
+      "email": "suvrochak555@gmail.com"
+    }
+  ]
+}
